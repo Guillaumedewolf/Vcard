@@ -20,6 +20,8 @@ body{
 .gauche {
 	float: left;
 	width: 55%;
+  line-height: 2;
+
 
 }
 
@@ -27,6 +29,7 @@ body{
 	float: right;
 	line-height: 3;
 	width: 45%;
+
 
 
 }
@@ -62,11 +65,13 @@ strong {
 span {
 	font-size: 25px;
 	color:white;
+  line-height: 1;
 }
 .click{
 	background-color: white;
 	border-radius: 10px;
-	box-shadow: 8px 8px 0px #aaa; 
+	box-shadow: 8px 8px 0px #aaa;
+  width: 100% 
 }
 .icon{
 	height: 100px;
@@ -201,7 +206,7 @@ span {
 	  animation-duration: 1s;
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
-	  -webkit-animation-delay: 0.5s;
+	  -webkit-animation-delay: 2.5s;
 	  animation-delay: 0.5s;
 	  }
 	  	.twitter {
@@ -213,7 +218,7 @@ span {
 	  animation-duration: 1s;
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
-	  -webkit-animation-delay: 1s;
+	  -webkit-animation-delay: 3s;
 	  animation-delay: 1s;
 	  }
 	       .facebook {
@@ -225,7 +230,7 @@ span {
 	  animation-duration: 1s;
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
-	  -webkit-animation-delay: 1.5s;
+	  -webkit-animation-delay: 3.5s;
 	  animation-delay: 1.5s;
 	  }
   @-webkit-keyframes flip {

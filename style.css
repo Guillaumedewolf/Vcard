@@ -207,7 +207,7 @@ span {
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
 	  -webkit-animation-delay: 1.5s;
-	  animation-delay: 2.5s;
+	  animation-delay: 1.5s;
 	  }
 	  	.twitter {
 	  -webkit-backface-visibility: visible;
@@ -219,7 +219,7 @@ span {
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
 	  -webkit-animation-delay: 2s;
-	  animation-delay: 3s;
+	  animation-delay: 2s;
 	  }
 	       .facebook {
 	  -webkit-backface-visibility: visible;
@@ -231,7 +231,7 @@ span {
 	  -webkit-animation-fill-mode: both;
 	  animation-fill-mode: both;
 	  -webkit-animation-delay: 2.5s;
-	  animation-delay: 3.5s;
+	  animation-delay: 2.5s;
 	  }
   @-webkit-keyframes flip {
   0% {
